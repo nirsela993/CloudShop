@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="target/classes" path="src/main/java">
+	<classpathentry kind="src" output="target/classes" path="java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
@@ -33,5 +33,9 @@
 	<classpathentry kind="lib" path="C:/Users/Nir/Desktop/httpcomponents-client-4.5.2/lib/httpmime-4.5.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nir/Desktop/httpcomponents-client-4.5.2/lib/jna-4.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Nir/Desktop/httpcomponents-client-4.5.2/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nir/Downloads/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nir/Downloads/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nir/Downloads/javax.servlet-3.0.0.v201112011016-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nir/Downloads/mqlight-api-1.0.2015052200.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
